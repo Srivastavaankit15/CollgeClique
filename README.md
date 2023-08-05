@@ -3,7 +3,7 @@
 ## Installation and usage
 
 1. Clone this repository\
-    `git clone https://github.com/sinharitwick/Hacketeers_GDSC.git`
+    `git clone https://github.com/Srivastavaankit15/CollgeClique.git`
 2. Install dependencies\
     `cd server`  \
     `npm install`\
